@@ -26,7 +26,7 @@
     #content {
         padding: 0px;
     }
-    #load {
+    .btn {
         width: 100%;
     }
     #text {
